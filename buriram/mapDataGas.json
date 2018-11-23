@@ -1,0 +1,5741 @@
+[ {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9886101,
+    "lon" : 103.1136431
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บริษัท เอ.บี.ปิโตรเลียม จำกัด (สาขา 2)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9953652,
+    "lon" : 103.1099722
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ร้าน มนชัยออโต้แก๊ส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.196753,
+    "lon" : 102.500168
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT Chaiworaporn Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1374921,
+    "lon" : 103.0318826
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5663187,
+    "lon" : 103.2701418
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.628941,
+    "lon" : 103.404167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. บจ.ปราสาทปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.286456,
+    "lon" : 103.290304
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก. บุรีรัมย์สุวิมล",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7202189,
+    "lon" : 103.1530792
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak (Phlapphla Chai Agriculture Cooperative Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6347254,
+    "lon" : 102.7934077
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sakun Rat Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.983474,
+    "lon" : 103.078819
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ESSO (บริษัท วีวราออยล์ จำกัด สาขาสำนักงานใหญ่)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9288275,
+    "lon" : 103.1420702
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  MP",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6276832,
+    "lon" : 102.8407146
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  NGV นางรอง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8294868,
+    "lon" : 103.4651987
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันไทยเจริญบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.745533,
+    "lon" : 103.22824
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สวนเกษตร",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8973672,
+    "lon" : 102.9523364
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  โรงผลิตน้ำดื่มบ้านไผ่น้อย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9029831,
+    "lon" : 103.2968559
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Krasang Agriculture Cooperative Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4117508,
+    "lon" : 102.8534595
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มพีทีละหานทราย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3428343,
+    "lon" : 102.4320065
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3243719,
+    "lon" : 102.7524582
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5090059,
+    "lon" : 103.2039879
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Lpg พยัคย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5584004,
+    "lon" : 102.5313471
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.878796,
+    "lon" : 103.34204
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน จิน 29",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6443815,
+    "lon" : 102.6812001
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มตนอิสาน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.88234,
+    "lon" : 103.50331
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา ในเมืองสุรินทร์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4186941,
+    "lon" : 102.9413891
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sa-Nga Rungruang Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2814711,
+    "lon" : 102.6578124
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.005305,
+    "lon" : 102.645908
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร ห้วยแถลง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.520446,
+    "lon" : 103.201318
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8410214,
+    "lon" : 103.4710672
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thai Surin Chareon Service Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4870876,
+    "lon" : 103.0991763
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3318879,
+    "lon" : 102.7552661
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak (Non Din Daeng Si Sombun Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7127821,
+    "lon" : 103.2234759
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5430596,
+    "lon" : 102.7035758
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Sirinutch Service)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9159734,
+    "lon" : 102.8612325
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Panuwat Oil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0091384,
+    "lon" : 102.6303449
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.747476,
+    "lon" : 102.8300117
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้ม-ngv",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.016085,
+    "lon" : 102.832568
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8877203,
+    "lon" : 103.495648
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  คาร์แคร์ปั๊มเอสโซ่",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2781231,
+    "lon" : 103.2790137
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมัน ปตท. โดย บริษัท เอ.บี.ปิโตรเลียม จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3084641,
+    "lon" : 102.7476527
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT Non Din Daeng - Ta Phraya.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5200904,
+    "lon" : 103.2010982
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเชลล์ปะหลาน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8420962,
+    "lon" : 103.4742165
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Siam United Services Public Company Limited.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6396123,
+    "lon" : 103.520993
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.73097099999999,
+    "lon" : 102.595911
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา หนองแวงโสกพระ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4970718,
+    "lon" : 102.5274359
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8790963,
+    "lon" : 103.4879494
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Charoen Chai branch 1 Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8623482,
+    "lon" : 103.5210041
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มเอสโซ่ สาขาเมืองสุรินทร์ (เพียวไทย)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5166564,
+    "lon" : 102.6929111
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6750438,
+    "lon" : 103.1656768
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6373208,
+    "lon" : 102.9551381
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Wongpong Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5923051,
+    "lon" : 103.458338
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sinsomboon LPG Co.,Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7422923,
+    "lon" : 102.9873405
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4112028,
+    "lon" : 102.8534985
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ละหานทราย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6250707,
+    "lon" : 103.2589531
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bunteom Thongma",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9244858,
+    "lon" : 103.4709807
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  อู่ซ่อมรถยนต์ .ช่างเพิ่ม.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5379495,
+    "lon" : 103.2004531
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7135915,
+    "lon" : 103.2102913
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2663132,
+    "lon" : 103.3090792
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thaen Oil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.887946,
+    "lon" : 103.495641
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9992432,
+    "lon" : 103.1071293
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sui Heng Gas Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4667522,
+    "lon" : 102.6186197
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6327288,
+    "lon" : 102.8740258
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3135849,
+    "lon" : 102.7482817
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0092382,
+    "lon" : 102.6304925
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Athirat Service Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8906368,
+    "lon" : 103.4950707
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Nam Huat Heng Petroleum Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0124462,
+    "lon" : 102.847297
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ัำมันพีทีลำปลายมาศ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6251953,
+    "lon" : 103.2585239
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thongeim Service Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4318795,
+    "lon" : 102.4854155
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3157023,
+    "lon" : 102.72331
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6274444,
+    "lon" : 102.8407221
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม เอ็นจีวี พนาวัน และ บ.พนาวันขนส่ง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9646579,
+    "lon" : 103.4765343
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5150044,
+    "lon" : 103.1934217
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บริษัท บางจากกรีนเนท จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1312709,
+    "lon" : 103.3797377
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3515649,
+    "lon" : 103.3790879
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน ปตท.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.212668,
+    "lon" : 102.486792
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ทีพีบีออยล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3256629,
+    "lon" : 103.1336426
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sophon Gas Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8449998,
+    "lon" : 103.495846
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ห้างหุ้นส่วนจำกัด สุรินทร์-อุบลปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6080245,
+    "lon" : 103.0977272
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บริษัท เพชรศรีเจริญ ปิโตรเลียม จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9224331,
+    "lon" : 103.1438092
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มศิวโรจน์แก๊ส (ปั้มยิ้ม)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.841026,
+    "lon" : 103.471082
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Piyaphan Surin Limited Partnership.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.592476,
+    "lon" : 102.429255
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Pongsakon Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.507895,
+    "lon" : 103.199431
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pure Gas Station Major Phayakkhaphum Phisai",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7688117,
+    "lon" : 102.7265634
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  หจก.ฉัตรเจริญบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9713296,
+    "lon" : 103.1034558
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มแก๊ส LPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5537528,
+    "lon" : 102.93915
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันบางจาก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.632445,
+    "lon" : 102.723959
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร นางรอง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5455126,
+    "lon" : 102.5949476
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Piansap Thawee",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8731852,
+    "lon" : 103.5060439
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT เจริญไชยบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3098519,
+    "lon" : 102.7178383
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน BK บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5547861,
+    "lon" : 103.4614709
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2972632,
+    "lon" : 103.2940516
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0037878,
+    "lon" : 102.5607631
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2643749,
+    "lon" : 103.0027264
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.อ.คูเมือง BRYปิโตเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6291245,
+    "lon" : 103.404643
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท แยก ปราสาท",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.60692100000001,
+    "lon" : 103.031636
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8622683,
+    "lon" : 103.5208954
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Kiat Chai Petroleum Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.495524,
+    "lon" : 102.4664483
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Piyowat Service)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.981104,
+    "lon" : 102.7840951
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้ม LPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3152537,
+    "lon" : 103.1507967
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9980148,
+    "lon" : 103.1054352
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Petronas (Buri Ram Oil Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5312476,
+    "lon" : 102.5436028
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา โนนแดง3",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3683777,
+    "lon" : 103.2821311
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Psgasandoil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7838426,
+    "lon" : 103.4095169
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันพีพีไอ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.643394,
+    "lon" : 103.4796043
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.606729,
+    "lon" : 102.9129471
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prasert Kan",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2864312,
+    "lon" : 103.2903527
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4256789,
+    "lon" : 103.3155747
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prapat Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4731675,
+    "lon" : 102.7784581
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.633504,
+    "lon" : 102.8049108
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Caltex Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.88341,
+    "lon" : 103.489752
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Siri Charoen Chai",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6243117,
+    "lon" : 102.7230033
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.519072,
+    "lon" : 103.201182
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  เพียวพยัคฆภูมิพิสัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6515058,
+    "lon" : 103.4069909
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.เมืองปราสาท",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.692976,
+    "lon" : 102.863034
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Santi Rakpong Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3960897,
+    "lon" : 102.8499108
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน และ LPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.969713,
+    "lon" : 103.06283
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.542388,
+    "lon" : 102.704657
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4071681,
+    "lon" : 102.8531128
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.551936,
+    "lon" : 102.6381687
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Prasat Thai Service)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3344938,
+    "lon" : 102.7506874
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.323778,
+    "lon" : 103.12584
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์ นิคมแคนดง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5720807,
+    "lon" : 102.4724074
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.477623,
+    "lon" : 102.6388893
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.552028,
+    "lon" : 102.5487134
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ร้านบุญมีรุ่งเรือง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3318943,
+    "lon" : 102.7552705
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา โนนดินแดง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5768058,
+    "lon" : 102.4449624
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Pracha Thai)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2868802,
+    "lon" : 102.9205295
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6134641,
+    "lon" : 102.7775394
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มคาลเท็กซ์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6068732,
+    "lon" : 103.367129
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5205663,
+    "lon" : 103.383713
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มNGV พยัคฆภูมิพิสัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3968964,
+    "lon" : 102.7922148
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3517555,
+    "lon" : 103.3789759
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมัน ปตท.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4332171,
+    "lon" : 102.5086434
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.208238,
+    "lon" : 102.6933492
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7002823,
+    "lon" : 102.9811588
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันโชคบุญธรรมบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4322123,
+    "lon" : 102.6658197
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันต้นกล้าปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8868938,
+    "lon" : 103.4951371
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Jiw Pen Tong Part., Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6761955,
+    "lon" : 102.9985346
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Micro Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.749655,
+    "lon" : 103.149987
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันพีพีไอ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7900888,
+    "lon" : 103.0629466
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.508345,
+    "lon" : 103.195337
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Thai Sa-Nguan Service Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3882425,
+    "lon" : 103.1970308
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ชุมพลบุรี1",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4239321,
+    "lon" : 103.0986605
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ธรรมโกศล บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3538697,
+    "lon" : 102.9195333
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบัวทองปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5627879,
+    "lon" : 103.2103317
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันพีที บ้านดอนติ้ว",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5834667,
+    "lon" : 103.1754877
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา พยัคฆภูมิพิสัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8299924,
+    "lon" : 103.5093416
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6231625,
+    "lon" : 103.2414877
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6287459,
+    "lon" : 103.4028917
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Petch Rangsan Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.988229,
+    "lon" : 103.111589
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (บริษัท วีวราออยล์ จำกัด สาขา1)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1715321,
+    "lon" : 103.3566426
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thana Oil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4765273,
+    "lon" : 102.6279886
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0153801,
+    "lon" : 103.108632
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Sutthi Siri Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4305517,
+    "lon" : 103.0851833
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1603579,
+    "lon" : 103.3817808
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้ม พีที ประสิทธ์ ศรีสุข",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.841023,
+    "lon" : 103.471066
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Piyaphan Surin Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.632237,
+    "lon" : 103.337504
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.ปทุมรัตต์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4992629,
+    "lon" : 103.0466317
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9028405,
+    "lon" : 103.4164144
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Muangchang Gas Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.933562,
+    "lon" : 103.13682
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  LPG Buri Ram",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.887516,
+    "lon" : 103.480858
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4076242,
+    "lon" : 102.9744993
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Singto Thong Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.511694,
+    "lon" : 103.205566
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมัน บจก.เพียวพลังงานไทย (ESSO)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1288181,
+    "lon" : 103.3758461
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันดรุณีออยล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.681655,
+    "lon" : 102.549546
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak (Nong Ki Agriculture Cooperative Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5224112,
+    "lon" : 103.4902661
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บ้านโพนข่อย ที่มีตู้เติมน้ำมัน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2837534,
+    "lon" : 103.2865731
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  หจก.วรรณโคตร",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8895264,
+    "lon" : 103.488807
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Bua Noi Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5137927,
+    "lon" : 103.3881725
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเอกลักษ์บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3489741,
+    "lon" : 103.3924982
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (VR Oil)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.632618,
+    "lon" : 103.414462
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sa-Nguan Chai Petroleum Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7048805,
+    "lon" : 103.2753439
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Kiat Sap Anan Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.741081,
+    "lon" : 102.807238
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันเชลล์ บ้านสิงห์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4375076,
+    "lon" : 102.7188537
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6377603,
+    "lon" : 103.3325255
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3683457,
+    "lon" : 103.2821317
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  หจก.พี เอส แก๊ส แอนด์ ออยล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8577426,
+    "lon" : 102.9806338
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา บ้านบัว2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6083553,
+    "lon" : 103.0028225
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Thianchai Pattana Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.611252,
+    "lon" : 102.8629347
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มชุมชน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5187538,
+    "lon" : 102.4591286
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันห้างหุ้นส่วนจำกัดสุวัฒน์ชัยบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.028227,
+    "lon" : 102.834935
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Sri Bun Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5422573,
+    "lon" : 102.7044815
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ร้าน ช.เกษตรยนต์ อ.ประทาย จ.นครราชสีมา",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8478361,
+    "lon" : 103.5127085
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prawitch L.P.G. Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.876935,
+    "lon" : 103.514579
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บจก.สุรินทร์อุบล",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0255463,
+    "lon" : 103.4626443
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3565161,
+    "lon" : 102.9274022
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.627676,
+    "lon" : 102.8408376
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มNGV บุรีรัมย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6074725,
+    "lon" : 103.02807
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Mart",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.847925,
+    "lon" : 103.512712
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prawitch L.P.G. Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.799852,
+    "lon" : 102.610157
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Na Ta Saeng Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6286156,
+    "lon" : 103.4027155
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Caltex",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4142384,
+    "lon" : 102.47959
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน PT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4216542,
+    "lon" : 102.8539974
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  หจก.อติเทพ ออยล์ 2017",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5083763,
+    "lon" : 103.1964307
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Phayak Petroleum Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3243891,
+    "lon" : 102.7523026
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Mana-Sermpol Petroleum Ltd.,Part.)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2957277,
+    "lon" : 103.2793123
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6790726,
+    "lon" : 103.1113702
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ยางสีสุราช",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.925013,
+    "lon" : 103.142649
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก.วงศ์วิกรมปิโตรเลียม (2)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6309898,
+    "lon" : 103.4119189
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prasat Panit Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5502717,
+    "lon" : 103.2698536
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Auam Wongkanok",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7501632,
+    "lon" : 102.8425459
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.85196,
+    "lon" : 102.83342
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มหนองเทา",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3827722,
+    "lon" : 103.0562425
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.664915,
+    "lon" : 102.6091578
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันพีที",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.88710120000001,
+    "lon" : 103.495127
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Jiew Pen Thong Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3032797,
+    "lon" : 103.1763622
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันพีพีไอ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4535184,
+    "lon" : 103.4237534
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีน้ำมัน PT หจก.ฤทธิรณปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5277427,
+    "lon" : 102.6185193
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6069267,
+    "lon" : 103.0283821
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ประโคนชัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7685177,
+    "lon" : 102.5463947
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Suphan Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4238237,
+    "lon" : 103.0987065
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา บ้านกรวด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6324816,
+    "lon" : 102.8120671
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pure",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5499691,
+    "lon" : 102.5481269
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Sida Thaweechai Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1615446,
+    "lon" : 103.3787223
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Mitnamchai Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9764533,
+    "lon" : 103.1924814
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0128289,
+    "lon" : 102.8470731
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  มีปั้ม ก๊าซหุงต้ม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.2036974,
+    "lon" : 103.1262424
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Peth Sross Energy Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2133711,
+    "lon" : 102.5458165
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7121083,
+    "lon" : 102.4550039
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PN.Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7752124,
+    "lon" : 103.055686
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT gas station.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.352869,
+    "lon" : 103.378765
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร เพื่อการตลาด(สกต. สุรินทร์) จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7402139,
+    "lon" : 102.8074311
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม PT บ้านสิงห์ หจก.วงศ์ทิพย์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4722692,
+    "lon" : 103.2307858
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันบางจาก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9793603,
+    "lon" : 103.0745269
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Veevara Oil Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6360638,
+    "lon" : 103.2219369
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  พอเพียงแก๊ส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6073213,
+    "lon" : 103.0317023
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันเชลล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.679995,
+    "lon" : 103.0505612
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4985188,
+    "lon" : 103.3833181
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันน้องโจบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7549295,
+    "lon" : 102.711265
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3623079,
+    "lon" : 102.8701757
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5555383,
+    "lon" : 102.7980401
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Non Than Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9886283,
+    "lon" : 103.1139666
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท 101453",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.886693,
+    "lon" : 103.4096105
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันโชคทวี",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.418388,
+    "lon" : 103.302383
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chanakit Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9455111,
+    "lon" : 103.2160022
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันทีพีไอ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6505308,
+    "lon" : 103.0490821
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5649436,
+    "lon" : 102.4666001
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Bua Yai Gas Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8862716,
+    "lon" : 103.4964681
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Ang Su Phan Ltd.,part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8294492,
+    "lon" : 103.4654294
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell (Thai Charoen Surin Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.735568,
+    "lon" : 102.627322
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  M.P. Upakon Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3463303,
+    "lon" : 103.2764931
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2835193,
+    "lon" : 103.2870287
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Annop Oil Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0037351,
+    "lon" : 102.5608404
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2755155,
+    "lon" : 103.0004344
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Caltex (Buri Ram Sing Suwan Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.764412,
+    "lon" : 103.4031915
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9856567,
+    "lon" : 103.1187695
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - ห้างหุ้นส่วนจำกัด เจนศิริศักดิ์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9996713,
+    "lon" : 103.113764
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Caltex (Buri Ram Kijcharoen Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.1609632,
+    "lon" : 103.2989498
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ដេប៉ូតេលា ចិន្ត្រា គោកមន",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5457787,
+    "lon" : 102.5952511
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.585485,
+    "lon" : 102.425001
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Leng Seng Huat Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9428559,
+    "lon" : 103.5089907
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Siri Charoen Part., Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7748859,
+    "lon" : 103.513844
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.011134,
+    "lon" : 102.8269791
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Mana-Sermpol Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6545107,
+    "lon" : 102.9056601
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5793458,
+    "lon" : 102.7062086
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันโชคธานี",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5727,
+    "lon" : 103.2166966
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มแก๊ส LPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.356191,
+    "lon" : 102.9051999
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  พีโอออยล์ สาขาปตทลำทเมนชัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.32427270000001,
+    "lon" : 103.1384273
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.35631039999999,
+    "lon" : 102.8794401
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4282967,
+    "lon" : 102.5244615
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา เสิงสาง2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9235563,
+    "lon" : 103.3021426
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Dao Krasang Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4245051,
+    "lon" : 102.4618928
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันวีรวรรณ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8869767,
+    "lon" : 103.4840012
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Charoenphon petroleum Surin Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6153939,
+    "lon" : 102.905905
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา เฉลิมพระเกียรติ3",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.822836,
+    "lon" : 103.462396
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก. มุ่งเจริญปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.640725,
+    "lon" : 103.405509
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chookiert Seaglam",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.000826,
+    "lon" : 103.106014
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.631071,
+    "lon" : 103.411903
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1945144,
+    "lon" : 102.5139729
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Cosmo (Jirachot Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.929629,
+    "lon" : 103.305538
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thawi Chai Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6328198,
+    "lon" : 102.80579
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  นางรองงเจริญยานยนต์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6286622,
+    "lon" : 103.4027223
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ปราสาท2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4454986,
+    "lon" : 102.7259104
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8842992,
+    "lon" : 103.4104322
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chok Thawee Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7875376,
+    "lon" : 103.1573792
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันพีพีไอ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4277703,
+    "lon" : 102.5220494
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8838038,
+    "lon" : 103.4901381
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chintana Gas Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.988695,
+    "lon" : 103.113852
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  A.B.Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2783597,
+    "lon" : 102.6335072
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8849428,
+    "lon" : 103.4137206
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.LPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.355842,
+    "lon" : 103.010438
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Rattanasuk Energy Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9014522,
+    "lon" : 103.5035636
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT เจริญไชยสุรินทร์บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.551958,
+    "lon" : 102.63814
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2697039,
+    "lon" : 102.9997989
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร คูเมือง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6646555,
+    "lon" : 103.2143237
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.51997,
+    "lon" : 103.3792972
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Somdet Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.011723,
+    "lon" : 102.83172
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8422621,
+    "lon" : 103.478508
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Mungchareon Petroleum Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5552048,
+    "lon" : 102.9632812
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  พุธไทสงแก๊สLPG",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.19063970000001,
+    "lon" : 102.503059
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Choet Ja Service Limited Partnership (Hok Ki))",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.51125,
+    "lon" : 103.2479618
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5276877,
+    "lon" : 102.5426635
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Best Energy Plus Nondang)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2972292,
+    "lon" : 103.2939522
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Dao Satuek Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.409522,
+    "lon" : 102.971875
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Rungruang Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0761478,
+    "lon" : 103.478437
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.632556,
+    "lon" : 103.4145168
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน PT.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6379222,
+    "lon" : 103.4067965
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pitaya Wittaya Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7705549,
+    "lon" : 102.7210933
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5730331,
+    "lon" : 102.4551021
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3920391,
+    "lon" : 102.5199663
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7276922,
+    "lon" : 103.0107346
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9250185,
+    "lon" : 103.1422361
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Wong Wikrom Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3582014,
+    "lon" : 102.7796337
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6289088,
+    "lon" : 103.4047838
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.ปราสาท",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7454455,
+    "lon" : 103.2276708
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ทองสุวรรณฟาร์ม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.573488,
+    "lon" : 102.451405
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา บัวใหญ่",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.346322,
+    "lon" : 103.2769452
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pol Charoen",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.613665,
+    "lon" : 102.777828
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  TPI",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4454955,
+    "lon" : 102.725966
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  A. A. Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9681044,
+    "lon" : 103.0597206
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Company. B. Otrd coving Capital Ltd. (9 branches).",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7456668,
+    "lon" : 103.2282272
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันหยอดเหรียญ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.643284,
+    "lon" : 102.9506185
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  N. N. C. Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3945715,
+    "lon" : 102.8503836
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันห้างหุ้นส่วนจำกัดละหานทรายการค้า",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.974619,
+    "lon" : 103.0688155
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (A.B.Petroleum Co.,Ltd.)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.348439,
+    "lon" : 103.5031402
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.258751,
+    "lon" : 103.5017897
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ท่าตูม2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.692976,
+    "lon" : 102.863034
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Thong Som Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7903574,
+    "lon" : 103.0629597
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  N.S.Oill",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3155841,
+    "lon" : 103.1279099
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Tankstelle",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.692976,
+    "lon" : 102.863034
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chaiporn Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3346791,
+    "lon" : 102.7353079
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Srifah Service Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9287672,
+    "lon" : 103.141998
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pure (Pure Thai Energy Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3968399,
+    "lon" : 103.1862574
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Tang Thavorn Service Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1960428,
+    "lon" : 102.7336678
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเชลล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6075469,
+    "lon" : 103.1214525
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ห้างหุ้นส่วนจำกัด สองครูบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.306074,
+    "lon" : 103.3996303
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3067048,
+    "lon" : 102.9020407
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7751875,
+    "lon" : 103.0557464
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Pornprasert Petroleum Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6353716,
+    "lon" : 103.2245969
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7553149,
+    "lon" : 102.566936
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9322888,
+    "lon" : 103.1360117
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5554179,
+    "lon" : 102.9638947
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2227788,
+    "lon" : 103.0125143
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - ห้างหุ้นส่วนจำกัด สนวนรัตน์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5473604,
+    "lon" : 102.854023
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.633433,
+    "lon" : 102.79904
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.898821,
+    "lon" : 103.480818
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.639638,
+    "lon" : 103.521056
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  A&P Mini Mart",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8980029,
+    "lon" : 102.9522541
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บ้านไผ่น้อย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.651583,
+    "lon" : 103.416624
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prasat Gas Ltd.,Part.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.246758,
+    "lon" : 103.51181
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sanguan Insamran",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3575643,
+    "lon" : 103.0138497
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Lo Tek Heng",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9845307,
+    "lon" : 103.0854098
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  อู่รุจน์หน้าการช่าง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.583217,
+    "lon" : 103.440556
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ปทุมรัตต์1",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6512353,
+    "lon" : 102.9503558
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Na Pho Agriculture Cooperative Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.509042,
+    "lon" : 103.190685
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak petrol station - Phayakkhaphum Phisai",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.349136,
+    "lon" : 103.4971182
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มศิริพรบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4141306,
+    "lon" : 102.4794434
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา โนนแดง2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7048213,
+    "lon" : 103.2753427
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา นาดูน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2297304,
+    "lon" : 103.0383927
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน วิรัตน์บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3785207,
+    "lon" : 103.0304105
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7685406,
+    "lon" : 102.5469761
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Ban Pa Prao Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.509012,
+    "lon" : 103.2048358
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Worarak Tara Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8731576,
+    "lon" : 103.5060623
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก. เจริญไชยบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4291294,
+    "lon" : 102.4700125
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Soeng Sang Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9157852,
+    "lon" : 103.3003709
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.อำเภอกระสัง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5959628,
+    "lon" : 103.4520334
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0541505,
+    "lon" : 102.7974638
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.31782,
+    "lon" : 103.287004
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak Gas Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5735794,
+    "lon" : 102.5987263
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท.โนนสุวรรณ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.73384,
+    "lon" : 102.790926
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.183845,
+    "lon" : 103.1249537
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันวิมลบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6960882,
+    "lon" : 102.6298244
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.635945,
+    "lon" : 103.40644
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Si Thong Prasat Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8823381,
+    "lon" : 103.5032998
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันวรรณเทพ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.963755,
+    "lon" : 103.0958047
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน ปตท. ไอโมบายสเตเดียม PTT Life Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.514249,
+    "lon" : 102.687749
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท. มหาชนะชัย ยโสธร",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3581481,
+    "lon" : 102.7859611
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sapsathit Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2735234,
+    "lon" : 103.0003404
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell (Rattana Yingyong Service Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4574455,
+    "lon" : 103.0994733
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6760249,
+    "lon" : 102.9984472
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3240671,
+    "lon" : 103.138196
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน PT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9743678,
+    "lon" : 103.0688412
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  A.B.Petroleum ABPTT1",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2663132,
+    "lon" : 103.3090792
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT gas station.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.844225,
+    "lon" : 103.472197
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  SUSCO",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6258391,
+    "lon" : 103.3903631
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม แอลพีจี",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2450577,
+    "lon" : 102.5855487
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Kasem Petroleum 1999 Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.555634,
+    "lon" : 102.7980076
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2718275,
+    "lon" : 103.0014973
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ห้างหุ้นส่วนจำกัด รัตนยิ่งยงบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4260068,
+    "lon" : 103.0976401
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5373355,
+    "lon" : 102.943389
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.4574595,
+    "lon" : 103.1108758
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2112166,
+    "lon" : 102.4854477
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันเชลล์ บจก. ทีเจ ปิโตร พาร์ค",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8857569,
+    "lon" : 103.4940466
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.99625,
+    "lon" : 103.094867
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Veevara Oil Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9966791,
+    "lon" : 103.2002732
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell (Sor. Kijsiri Oil Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.800058,
+    "lon" : 102.607552
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4370925,
+    "lon" : 102.5401401
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2661724,
+    "lon" : 102.9840221
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันบางจาก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1723307,
+    "lon" : 103.0315876
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thongdee Charoenkij",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6042446,
+    "lon" : 102.4272026
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6790702,
+    "lon" : 103.1117603
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันธีรวัฒน์บริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.420787,
+    "lon" : 102.9051868
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT gas station.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.692976,
+    "lon" : 102.863034
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Mae Dok Mai Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9247933,
+    "lon" : 103.3053445
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6072497,
+    "lon" : 103.1284978
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม แอลพีจี",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0066491,
+    "lon" : 103.110902
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา บุรีรัมย์6",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7237078,
+    "lon" : 102.5922579
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak (Bangchak Green Net Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2948542,
+    "lon" : 103.3925809
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเสกสรรบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8978573,
+    "lon" : 102.9978075
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3379409,
+    "lon" : 103.2801581
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ห้างหุ้นส่วนจำกัดทวีคูณไทยปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.607505,
+    "lon" : 103.027983
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.984307,
+    "lon" : 103.079226
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Veevara Group",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.513631,
+    "lon" : 103.386841
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Naina Bardan",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.737513,
+    "lon" : 102.785646
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร หนองสองห้อง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.996684,
+    "lon" : 103.2003069
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเจริญรัตน์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.881045,
+    "lon" : 102.7715407
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7974205,
+    "lon" : 102.6076605
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Ko Chang Yu Petroleum Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9258218,
+    "lon" : 103.3080093
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4181943,
+    "lon" : 102.4726957
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันตานิ่ม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5497874,
+    "lon" : 102.6221637
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6550003,
+    "lon" : 103.4083526
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Kittiya Oil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.678299,
+    "lon" : 102.609901
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Si Charoen Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.77165,
+    "lon" : 103.057251
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน IN OIL ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.420767,
+    "lon" : 102.4693906
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3628852,
+    "lon" : 102.8455764
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม CBG/NGV บริษัท RE Biofuels จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.632114,
+    "lon" : 102.824816
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.01109,
+    "lon" : 102.826671
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT Gas Station, Mana - Sermphol Petroleum 1",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6335028,
+    "lon" : 102.7990752
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา นางรอง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3412609,
+    "lon" : 102.4565758
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9886205,
+    "lon" : 103.1136246
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมัน ปตท.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7331673,
+    "lon" : 103.1723406
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT gas station PTG Energy Public Company Limited",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.65651,
+    "lon" : 103.408588
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร ปราสาท จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.96633,
+    "lon" : 103.1882787
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันกิจเจริญ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4279582,
+    "lon" : 102.4692547
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT (Bandit Service)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5378982,
+    "lon" : 103.2004052
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3938996,
+    "lon" : 103.0132046
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9968824,
+    "lon" : 103.2002842
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันห้างหุ้นส่วนจำกัดศิริกิจก่อสร้าง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9216293,
+    "lon" : 102.4839212
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก.สุวชาและบุตร 1997",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6658786,
+    "lon" : 103.048551
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.880532,
+    "lon" : 103.488651
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Surin Provincial Siricharoen Panit Registered Ordinary Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6930976,
+    "lon" : 102.6202373
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันบ้านโคกสะอาด หนองหัวหมู",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6276947,
+    "lon" : 103.2493728
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา ปราสาท5",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2738419,
+    "lon" : 102.9066998
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2776734,
+    "lon" : 103.3081545
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.429437,
+    "lon" : 102.470822
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร เสิงสาง จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6347314,
+    "lon" : 102.78436
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT (Ruam Jai Service Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5502115,
+    "lon" : 102.5221996
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8987205,
+    "lon" : 103.4985367
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  LPG Surin",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7501265,
+    "lon" : 103.1681114
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการนำ้มันมงคลรุ่งเรือง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.586082,
+    "lon" : 103.4427045
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  TN Petroleum",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5656185,
+    "lon" : 102.8261066
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  MP (MP Petroleum Company Limited)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.90185,
+    "lon" : 103.502889
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  บริษัท เจริญไชยสุรินทร์บริการ จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7494472,
+    "lon" : 102.8360409
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8914284,
+    "lon" : 103.4939642
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  素林火车站\uD83D\uDE89",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.607032,
+    "lon" : 103.1288374
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  หจก.จี.เอส.บี.แก๊ส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.712752,
+    "lon" : 103.22351
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร นาดูน จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8577356,
+    "lon" : 102.9806892
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thong Thiwa Oil",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1474404,
+    "lon" : 103.0399878
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันแสงพัฒบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.889683,
+    "lon" : 103.488781
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6121126,
+    "lon" : 102.882384
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.188553,
+    "lon" : 102.684773
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Petrol Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3657684,
+    "lon" : 103.0010426
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0030933,
+    "lon" : 102.4860114
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2744322,
+    "lon" : 103.324078
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Rung Rueang Thon Phat Kha Kat Part., Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4604125,
+    "lon" : 103.0998833
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Srifha LPG Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3517109,
+    "lon" : 103.3791479
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ปตท.ชุมพลบุรี",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3158089,
+    "lon" : 102.7232019
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5669913,
+    "lon" : 102.8349021
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sitthirak Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.88739,
+    "lon" : 103.495302
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Sor Surinpanit Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.63261,
+    "lon" : 103.41446
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา ปราสาท - สุรินทร์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3135113,
+    "lon" : 102.748464
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Ekkachai Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3582941,
+    "lon" : 102.7861755
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6384123,
+    "lon" : 102.9603907
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6950833,
+    "lon" : 102.5437409
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  นวพร ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5177228,
+    "lon" : 102.6964394
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Sri Prathai 2000",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.611188,
+    "lon" : 102.863187
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ท้องถิ่น",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6797504,
+    "lon" : 103.0489634
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.983899,
+    "lon" : 103.078798
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Veevara Group Headquarters",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.552028,
+    "lon" : 102.5487134
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.446636,
+    "lon" : 102.726255
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร ปะคำ จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7331799,
+    "lon" : 103.1723935
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา พลับพลาชัย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3502349,
+    "lon" : 102.9515669
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.527543,
+    "lon" : 102.542642
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso (Thawat Oil Limited Partnership)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.894698,
+    "lon" : 103.4455132
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PPT Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5628715,
+    "lon" : 103.2110104
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา พยัคฆภูมิพิสัย2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9856628,
+    "lon" : 102.9616973
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเกียรติลักษ์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9886,
+    "lon" : 103.113611
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. บจ.เอ.บี.ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.633474,
+    "lon" : 102.7992737
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมัน พี ที สาขานางรอง จ. บุรีรัมย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.884053,
+    "lon" : 103.491662
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Nana Gas Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8855364,
+    "lon" : 102.8363496
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|finance|store|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.859409,
+    "lon" : 103.4788467
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท.สาขาเพื่อสวัสดิการของมหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตสุรินทร์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2837838,
+    "lon" : 103.2864876
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มแก๊ส สตึก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2957277,
+    "lon" : 103.2793123
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Suk Charoen Namchok",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8939501,
+    "lon" : 102.7094163
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6907865,
+    "lon" : 102.9578976
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันทองดีบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8951892,
+    "lon" : 103.4417215
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  LPG Surin",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9682442,
+    "lon" : 103.0594167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  A.B.Petroleum ABPTT5",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7374324,
+    "lon" : 103.0497167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.349883,
+    "lon" : 103.386797
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร ชุมพลบุรี จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5377386,
+    "lon" : 103.200034
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปตท . ก้ามปู",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2784272,
+    "lon" : 102.6353177
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมัน PT บ.หนองจิก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7217519,
+    "lon" : 103.4452387
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6861432,
+    "lon" : 102.540188
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thong Mongkol Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.709806,
+    "lon" : 103.298607
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Hunyon",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.511295,
+    "lon" : 103.2479332
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Product Saving Group",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.735568,
+    "lon" : 102.627322
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Wanthong Panit Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5177542,
+    "lon" : 103.1288509
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Samran Petroleum Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8851379,
+    "lon" : 102.5951733
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2368169,
+    "lon" : 102.4736828
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท.ที พี บี ออยล์ จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9845307,
+    "lon" : 103.0854098
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  อู่รุจน์หน้าการช่าง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9325036,
+    "lon" : 103.1360417
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการแก๊ส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7402948,
+    "lon" : 102.8075454
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.411329,
+    "lon" : 102.8534041
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Banchoedchai Petroleum Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8837209,
+    "lon" : 103.4900951
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Oui Sakul Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.880678,
+    "lon" : 103.488848
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หสน. ศิริเจริญพาณิชย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7033696,
+    "lon" : 102.4793296
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2297023,
+    "lon" : 103.0383843
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Wirat Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.3489635,
+    "lon" : 103.3925545
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.750176,
+    "lon" : 103.168056
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มมงคลรุ่งเรือง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6649161,
+    "lon" : 102.6091715
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา หนองกี่3",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5834632,
+    "lon" : 103.1754992
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Chaipoj-Phonnee Service Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.669549,
+    "lon" : 103.0578715
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4098636,
+    "lon" : 103.194859
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9190487,
+    "lon" : 102.8351627
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4207616,
+    "lon" : 102.4693628
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8844534,
+    "lon" : 103.4904419
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Auto Gas Co., Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4539147,
+    "lon" : 103.3885033
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0062037,
+    "lon" : 103.1254492
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8884497,
+    "lon" : 103.4202041
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Ptt",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6294403,
+    "lon" : 103.4054258
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Prasat Kanka Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6323283,
+    "lon" : 102.8073979
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PT Service Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6181633,
+    "lon" : 103.3216448
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม เอ็นจีวี (พีเอสพี)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1633033,
+    "lon" : 103.3737052
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันเชลล์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8653422,
+    "lon" : 103.5178606
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Kijrungruang Surin Company Limited",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2565172,
+    "lon" : 103.5021801
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4375417,
+    "lon" : 102.71905
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  CM Oil Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.651272,
+    "lon" : 102.950167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร นาโพธิ์ จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5063574,
+    "lon" : 102.5587573
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5447632,
+    "lon" : 102.5810722
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7276511,
+    "lon" : 102.8037907
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5768034,
+    "lon" : 102.4449668
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มน้ำมันประชาไทย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6262256,
+    "lon" : 103.3902992
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  lpg.ปราสาทแก๊ส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.235486,
+    "lon" : 102.490289
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - สหกรณ์การเกษตร พิมาย จำกัด",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.8922402,
+    "lon" : 103.0664379
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7254811,
+    "lon" : 102.7945552
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันไบโอดีเซลไทย",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.992035,
+    "lon" : 103.1209762
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.61069290000001,
+    "lon" : 102.7773534
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT petrol station.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9800497,
+    "lon" : 103.074387
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันสกต",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.7426096,
+    "lon" : 102.5604812
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.62744,
+    "lon" : 102.84072
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการ NGV ปตท. พนาวันเอ็นเนอร์จี้",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.14479,
+    "lon" : 102.96717
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา เมืองแฝก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4149062,
+    "lon" : 102.8609497
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Bangchak",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.2112274,
+    "lon" : 102.4485845
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันภกรกิจ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0054865,
+    "lon" : 102.6451478
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  PTT gas station.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6323317,
+    "lon" : 102.8085863
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สยามแก๊ส lpg",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5899949,
+    "lon" : 103.460343
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gasohol Distribute Center",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6395374,
+    "lon" : 103.5209472
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มศรีสุข",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7455811,
+    "lon" : 103.2275233
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สวนทองสุวรรณ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6010639,
+    "lon" : 103.281668
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Esso gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.1605538,
+    "lon" : 103.3815089
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มพีทีลูกสาธิจ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7344962,
+    "lon" : 102.7898782
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Khosit Petroleum Limited Partnership",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6148684,
+    "lon" : 102.8187776
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Thong Lang Service",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.898944,
+    "lon" : 103.499277
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  เอ็ม ที แอนด์ ดี เซอร์วิส",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.5829524,
+    "lon" : 103.4410644
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.723708,
+    "lon" : 102.592262
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊มน้ำมันบางจาก - ห้างหุ้นส่วนจำกัด ป.เจริญรัตน์ (2535)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6367932,
+    "lon" : 103.4074466
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปิโตเลียมไทย คอร์ปอเรชั่น",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.6640522,
+    "lon" : 102.7880803
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas Thai Song Shop",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.895881,
+    "lon" : 102.835541
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|finance|store|point_of_interest|establishment  พีระพงศ์พืชผล",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.99799,
+    "lon" : 103.10542
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั๊ม ซัสโก้ สาขา บุรีรัมย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.987271,
+    "lon" : 102.641706
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สน.ปตท. หจก. ดวงทิพย์ปิโตรเลียม",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6516451,
+    "lon" : 103.4166174
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ห้างหุ้นส่วนจำกัด เพชรรังสรรค์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.429164,
+    "lon" : 102.4699778
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา เสิงสาง",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.7261367,
+    "lon" : 102.8161368
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันธวัชชัยบริการ",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.495214,
+    "lon" : 102.971257
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  ปั้มหัวทำนบ2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.5653183,
+    "lon" : 102.4695819
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.4226108,
+    "lon" : 102.5368576
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Shell (Chokpaiboon Service)",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.888449,
+    "lon" : 103.491576
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Surin Agsuphan Part., Ltd.",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.6327004,
+    "lon" : 102.8074847
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานี น้ำมัน PT สาขา นางรอง2",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0028559,
+    "lon" : 102.486391
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.9742155,
+    "lon" : 103.0686563
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Kerry Express ปตท.บุรีรัมย์",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.3833804,
+    "lon" : 103.0627873
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 14.431733,
+    "lon" : 102.4854021
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0092804,
+    "lon" : 102.6558935
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  สถานีบริการน้ำมันตะโก",
+  "placeCount" : 0
+}, {
+  "id" : null,
+  "latLon" : {
+    "lat" : 15.0042364,
+    "lon" : 103.2007571
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "gas_station|point_of_interest|establishment  Gas station",
+  "placeCount" : 0
+} ]
