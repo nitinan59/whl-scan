@@ -1,0 +1,2301 @@
+[ {
+  "id" : 2,
+  "latLon" : {
+    "lat" : 15.80012072628986,
+    "lon" : 101.3069241340902
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|home_goods_store|store|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 3,
+  "latLon" : {
+    "lat" : 15.80012072628986,
+    "lon" : 101.44712865480426
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 4,
+  "latLon" : {
+    "lat" : 15.80012072628986,
+    "lon" : 101.5312513672327
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 5,
+  "latLon" : {
+    "lat" : 15.80012072628986,
+    "lon" : 101.58733317551832
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 19,
+  "latLon" : {
+    "lat" : 15.80012072628986,
+    "lon" : 102.90525567023087
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 21,
+  "latLon" : {
+    "lat" : 15.773141078919853,
+    "lon" : 101.53120466731866
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 5
+}, {
+  "id" : 23,
+  "latLon" : {
+    "lat" : 15.773141078919853,
+    "lon" : 101.64335333934059
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 34,
+  "latLon" : {
+    "lat" : 15.773141078919853,
+    "lon" : 102.62465421953357
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 5
+}, {
+  "id" : 35,
+  "latLon" : {
+    "lat" : 15.773141078919853,
+    "lon" : 102.65269138753911
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "cafe|establishment|store|point_of_interest|food",
+  "placeCount" : 3
+}, {
+  "id" : 53,
+  "latLon" : {
+    "lat" : 15.746161431549625,
+    "lon" : 102.62446218160107
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 54,
+  "latLon" : {
+    "lat" : 15.746161431549625,
+    "lon" : 102.6524956206797
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 59,
+  "latLon" : {
+    "lat" : 15.71918178417919,
+    "lon" : 101.44702238575167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 72,
+  "latLon" : {
+    "lat" : 15.692202136808534,
+    "lon" : 101.2788310825863
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 7
+}, {
+  "id" : 88,
+  "latLon" : {
+    "lat" : 15.692202136808534,
+    "lon" : 102.5960532159952
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 110,
+  "latLon" : {
+    "lat" : 15.63824284206658,
+    "lon" : 101.41889813702892
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 116,
+  "latLon" : {
+    "lat" : 15.63824284206658,
+    "lon" : 102.62369773863247
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 121,
+  "latLon" : {
+    "lat" : 15.611263194695283,
+    "lon" : 101.19474752926487
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 122,
+  "latLon" : {
+    "lat" : 15.611263194695283,
+    "lon" : 101.41886674881903
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 134,
+  "latLon" : {
+    "lat" : 15.611263194695283,
+    "lon" : 102.59549265147871
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 141,
+  "latLon" : {
+    "lat" : 15.584283547323787,
+    "lon" : 101.22275690486617
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "pharmacy|health|establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 142,
+  "latLon" : {
+    "lat" : 15.584283547323787,
+    "lon" : 101.58690272178228
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 143,
+  "latLon" : {
+    "lat" : 15.584283547323787,
+    "lon" : 101.64292515515399
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 153,
+  "latLon" : {
+    "lat" : 15.557303899952064,
+    "lon" : 101.44681169364219
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 6
+}, {
+  "id" : 157,
+  "latLon" : {
+    "lat" : 15.557303899952064,
+    "lon" : 102.28703783683443
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 164,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 101.19474201677474
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 10
+}, {
+  "id" : 165,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 101.25074975017799
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 166,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 101.47478068379098
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 168,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 101.89483868431535
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 169,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 102.00685415112184
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 2
+}, {
+  "id" : 170,
+  "latLon" : {
+    "lat" : 15.530324252580138,
+    "lon" : 102.17487735133159
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 175,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.19474018644883
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 6
+}, {
+  "id" : 176,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.25074059138262
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 177,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.41874180618436
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 178,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.44674200865131
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 179,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.50274241358522
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 2
+}, {
+  "id" : 182,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.95074565305652
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 8
+}, {
+  "id" : 183,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 101.97874585552347
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 185,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 102.0907466653913
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 14
+}, {
+  "id" : 186,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 102.17474727279216
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 199,
+  "latLon" : {
+    "lat" : 15.503344605207992,
+    "lon" : 102.87475233446617
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 203,
+  "latLon" : {
+    "lat" : 15.476364957835647,
+    "lon" : 102.14662090323259
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 204,
+  "latLon" : {
+    "lat" : 15.476364957835647,
+    "lon" : 102.17461744863044
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 6
+}, {
+  "id" : 211,
+  "latLon" : {
+    "lat" : 15.449385310463088,
+    "lon" : 101.53065128242167
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 220,
+  "latLon" : {
+    "lat" : 15.449385310463088,
+    "lon" : 102.84631737045709
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 222,
+  "latLon" : {
+    "lat" : 15.422405663090316,
+    "lon" : 101.19473471695278
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 223,
+  "latLon" : {
+    "lat" : 15.422405663090316,
+    "lon" : 101.61457350804199
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 238,
+  "latLon" : {
+    "lat" : 15.395426015717343,
+    "lon" : 101.61451715805208
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 6
+}, {
+  "id" : 240,
+  "latLon" : {
+    "lat" : 15.395426015717343,
+    "lon" : 101.95034456374117
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 241,
+  "latLon" : {
+    "lat" : 15.395426015717343,
+    "lon" : 101.97833018088193
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 242,
+  "latLon" : {
+    "lat" : 15.395426015717343,
+    "lon" : 102.09027264944496
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|home_goods_store|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 253,
+  "latLon" : {
+    "lat" : 15.368446368344152,
+    "lon" : 101.58647893016655
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 269,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 101.50249132085173
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 270,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 101.58642642300231
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 271,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 101.61440479038583
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 272,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 101.69833989253641
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 274,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 101.89418846422109
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 276,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 102.17397213805634
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 28
+}, {
+  "id" : 277,
+  "latLon" : {
+    "lat" : 15.341466720970756,
+    "lon" : 102.20195050543987
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 290,
+  "latLon" : {
+    "lat" : 15.314487073597153,
+    "lon" : 101.47447500649264
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 3
+}, {
+  "id" : 306,
+  "latLon" : {
+    "lat" : 15.287507426223344,
+    "lon" : 101.64226401153383
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 308,
+  "latLon" : {
+    "lat" : 15.287507426223344,
+    "lon" : 101.75414859626744
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 309,
+  "latLon" : {
+    "lat" : 15.287507426223344,
+    "lon" : 101.81009088863425
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 310,
+  "latLon" : {
+    "lat" : 15.287507426223344,
+    "lon" : 101.83806203481765
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 328,
+  "latLon" : {
+    "lat" : 15.260527778849323,
+    "lon" : 101.53033442980518
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 330,
+  "latLon" : {
+    "lat" : 15.260527778849323,
+    "lon" : 101.69813970749283
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 331,
+  "latLon" : {
+    "lat" : 15.260527778849323,
+    "lon" : 101.75407480005538
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 338,
+  "latLon" : {
+    "lat" : 15.260527778849323,
+    "lon" : 102.59310118849362
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 339,
+  "latLon" : {
+    "lat" : 15.260527778849323,
+    "lon" : 102.6210687347749
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 349,
+  "latLon" : {
+    "lat" : 15.2335481314751,
+    "lon" : 101.53028952188697
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 350,
+  "latLon" : {
+    "lat" : 15.2335481314751,
+    "lon" : 101.58621742889773
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 351,
+  "latLon" : {
+    "lat" : 15.2335481314751,
+    "lon" : 101.69807324291924
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 354,
+  "latLon" : {
+    "lat" : 15.2335481314751,
+    "lon" : 102.56495580158594
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 363,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 101.698006910098
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 364,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 101.78188801365184
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 42
+}, {
+  "id" : 365,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 101.80984838150312
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 12
+}, {
+  "id" : 367,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 101.86576911720567
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 368,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 101.89372948505695
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 374,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 102.53681794563647
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 12
+}, {
+  "id" : 377,
+  "latLon" : {
+    "lat" : 15.206568484100666,
+    "lon" : 102.67661978489286
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 381,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 101.19471850128502
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 383,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 101.44632960511797
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 1
+}, {
+  "id" : 384,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 101.6140703410066
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 385,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 101.92159502346908
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 392,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 102.56460117770882
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 393,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 102.62051475633837
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 394,
+  "latLon" : {
+    "lat" : 15.17958883672603,
+    "lon" : 102.76029870291222
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 397,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.47424889626484
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 398,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.50220211415626
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 400,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.61401498572195
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 401,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.69787463939622
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 6
+}, {
+  "id" : 403,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.80968751096191
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 404,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 101.89354716463617
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 411,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 102.50851795824747
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 15
+}, {
+  "id" : 412,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 102.56442439403031
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 413,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 102.676237265596
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 414,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 102.84395657294453
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 415,
+  "latLon" : {
+    "lat" : 15.15260918935119,
+    "lon" : 102.87190979083596
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 417,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.33446320485461
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 5
+}, {
+  "id" : 418,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.39036251200866
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 419,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.47421147273974
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "cafe|establishment|store|point_of_interest|food",
+  "placeCount" : 1
+}, {
+  "id" : 420,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.50216112631676
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 26
+}, {
+  "id" : 421,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.61395974062486
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 422,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.72575835493296
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 423,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.75370800850999
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|home_goods_store|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 425,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.92140592997214
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 426,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 101.94935558354916
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 432,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 102.70399623012884
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 433,
+  "latLon" : {
+    "lat" : 15.125629541976146,
+    "lon" : 102.87169415159099
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 436,
+  "latLon" : {
+    "lat" : 15.098649894600895,
+    "lon" : 101.50212022017843
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 437,
+  "latLon" : {
+    "lat" : 15.098649894600895,
+    "lon" : 101.55801241291272
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 438,
+  "latLon" : {
+    "lat" : 15.098649894600895,
+    "lon" : 101.61390460564701
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 439,
+  "latLon" : {
+    "lat" : 15.098649894600895,
+    "lon" : 101.64185070201415
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 440,
+  "latLon" : {
+    "lat" : 15.098649894600895,
+    "lon" : 101.78158118384988
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 459,
+  "latLon" : {
+    "lat" : 15.044690599849782,
+    "lon" : 101.25058762361334
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 473,
+  "latLon" : {
+    "lat" : 15.044690599849782,
+    "lon" : 102.81517180527953
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 475,
+  "latLon" : {
+    "lat" : 15.017710952473925,
+    "lon" : 101.22264331825863
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 477,
+  "latLon" : {
+    "lat" : 15.017710952473925,
+    "lon" : 101.52993345880418
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 493,
+  "latLon" : {
+    "lat" : 14.990731305097858,
+    "lon" : 101.50195741165817
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 518,
+  "latLon" : {
+    "lat" : 14.963751657721598,
+    "lon" : 101.27848957939523
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 6
+}, {
+  "id" : 520,
+  "latLon" : {
+    "lat" : 14.963751657721598,
+    "lon" : 101.41813166307986
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 11
+}, {
+  "id" : 521,
+  "latLon" : {
+    "lat" : 14.963751657721598,
+    "lon" : 101.47398849655372
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 540,
+  "latLon" : {
+    "lat" : 14.93677201034513,
+    "lon" : 101.19470257361718
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 541,
+  "latLon" : {
+    "lat" : 14.93677201034513,
+    "lon" : 101.27847727981191
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 542,
+  "latLon" : {
+    "lat" : 14.93677201034513,
+    "lon" : 101.41810179013646
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 17
+}, {
+  "id" : 569,
+  "latLon" : {
+    "lat" : 14.909792362968464,
+    "lon" : 101.19470082158625
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 570,
+  "latLon" : {
+    "lat" : 14.909792362968464,
+    "lon" : 101.2505436105215
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 571,
+  "latLon" : {
+    "lat" : 14.909792362968464,
+    "lon" : 101.30638639945676
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "local_government_office|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 572,
+  "latLon" : {
+    "lat" : 14.909792362968464,
+    "lon" : 101.44599337179488
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 11
+}, {
+  "id" : 591,
+  "latLon" : {
+    "lat" : 14.909792362968464,
+    "lon" : 102.84206309517685
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 595,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 101.22261696703049
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 596,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 101.25053486097158
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 597,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 101.27845275491256
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 26
+}, {
+  "id" : 599,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 101.39012433067649
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 600,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 101.44596011855833
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 10
+}, {
+  "id" : 617,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 102.53475798225668
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 619,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 102.7860190277255
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 620,
+  "latLon" : {
+    "lat" : 14.882812715591594,
+    "lon" : 102.84185481560735
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 623,
+  "latLon" : {
+    "lat" : 14.855833068214526,
+    "lon" : 101.22261172860556
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 4
+}, {
+  "id" : 636,
+  "latLon" : {
+    "lat" : 14.855833068214526,
+    "lon" : 102.45084534975035
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 637,
+  "latLon" : {
+    "lat" : 14.855833068214526,
+    "lon" : 102.50667415071155
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 638,
+  "latLon" : {
+    "lat" : 14.855833068214526,
+    "lon" : 102.56250295167274
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 1
+}, {
+  "id" : 642,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 101.30633924301969
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 661,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 102.478597634479
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 662,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 102.50650854856133
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 664,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 102.56233037672598
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 1
+}, {
+  "id" : 665,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 102.61815220489063
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 669,
+  "latLon" : {
+    "lat" : 14.828853420837252,
+    "lon" : 103.00890500204412
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 670,
+  "latLon" : {
+    "lat" : 14.801873773459784,
+    "lon" : 101.27841615300997
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 706,
+  "latLon" : {
+    "lat" : 14.774894126082117,
+    "lon" : 102.95264174910471
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 729,
+  "latLon" : {
+    "lat" : 14.747914478704251,
+    "lon" : 102.98032220553887
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 730,
+  "latLon" : {
+    "lat" : 14.747914478704251,
+    "lon" : 103.00822270275751
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 5
+}, {
+  "id" : 738,
+  "latLon" : {
+    "lat" : 14.720934831326185,
+    "lon" : 101.75262943675364
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 740,
+  "latLon" : {
+    "lat" : 14.720934831326185,
+    "lon" : 101.92001167091655
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 787,
+  "latLon" : {
+    "lat" : 14.666975536569465,
+    "lon" : 101.66881765608287
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 788,
+  "latLon" : {
+    "lat" : 14.666975536569465,
+    "lon" : 101.80826837490235
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 812,
+  "latLon" : {
+    "lat" : 14.639995889190812,
+    "lon" : 101.64087080225522
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 813,
+  "latLon" : {
+    "lat" : 14.639995889190812,
+    "lon" : 101.66875750893894
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 840,
+  "latLon" : {
+    "lat" : 14.613016241811966,
+    "lon" : 103.00709476316774
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|food",
+  "placeCount" : 2
+}, {
+  "id" : 845,
+  "latLon" : {
+    "lat" : 14.586036594432919,
+    "lon" : 101.72439729080497
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 12
+}, {
+  "id" : 854,
+  "latLon" : {
+    "lat" : 14.586036594432919,
+    "lon" : 102.97899070308563
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 7
+}, {
+  "id" : 862,
+  "latLon" : {
+    "lat" : 14.559056947053662,
+    "lon" : 101.6407013676444
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "supermarket|establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 869,
+  "latLon" : {
+    "lat" : 14.559056947053662,
+    "lon" : 102.3376123076547
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 870,
+  "latLon" : {
+    "lat" : 14.559056947053662,
+    "lon" : 102.44911805805646
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 883,
+  "latLon" : {
+    "lat" : 14.532077299674228,
+    "lon" : 101.61277209246487
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 884,
+  "latLon" : {
+    "lat" : 14.532077299674228,
+    "lon" : 101.7800102641321
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 891,
+  "latLon" : {
+    "lat" : 14.532077299674228,
+    "lon" : 102.36534386496794
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 894,
+  "latLon" : {
+    "lat" : 14.532077299674228,
+    "lon" : 102.61620112246896
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 2
+}, {
+  "id" : 899,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 101.41763197713601
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|food",
+  "placeCount" : 3
+}, {
+  "id" : 900,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 101.47337123040506
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 5
+}, {
+  "id" : 902,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 101.529110483674
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 908,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 102.47667778924608
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 909,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 102.50454741588055
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 914,
+  "latLon" : {
+    "lat" : 14.505097652294591,
+    "lon" : 102.97833106866653
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 7
+}, {
+  "id" : 916,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 101.64053297498594
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 917,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 101.66839920665211
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 918,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 101.72413166998444
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 919,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 101.77986413331678
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 920,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 101.83559659664911
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 925,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 102.47651992497094
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 10
+}, {
+  "id" : 926,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 102.50438615663711
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 927,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 102.56011861996944
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 928,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 102.61585108330178
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 929,
+  "latLon" : {
+    "lat" : 14.478118004914762,
+    "lon" : 102.67158354663411
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 6
+}, {
+  "id" : 935,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 101.64047707533098
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 936,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 101.6683399190332
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 6
+}, {
+  "id" : 937,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 101.72406560643765
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 938,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 101.75192845013987
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 942,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 102.30918532418434
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "supermarket|establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 943,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 102.33704816788656
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 944,
+  "latLon" : {
+    "lat" : 14.451138357534736,
+    "lon" : 102.7271279797177
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 24
+}, {
+  "id" : 947,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 101.38968612653252
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "local_government_office|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 950,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 101.83543753034928
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 18
+}, {
+  "id" : 953,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 102.42048624785878
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 9
+}, {
+  "id" : 954,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 102.50406463607442
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 955,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 102.53192409881285
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 10
+}, {
+  "id" : 956,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 102.58764302429006
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 957,
+  "latLon" : {
+    "lat" : 14.424158710154524,
+    "lon" : 102.6155024870286
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 9
+}, {
+  "id" : 962,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 101.72393388877686
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 1
+}, {
+  "id" : 963,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 101.7517899775479
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 964,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 101.86321433263208
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 19
+}, {
+  "id" : 965,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 101.89107042140313
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 966,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 101.91892651017417
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "supermarket|establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 2
+}, {
+  "id" : 970,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 102.44819219682404
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 971,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 102.47604828559508
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 976,
+  "latLon" : {
+    "lat" : 14.397179062774113,
+    "lon" : 103.00531397224495
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 977,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 101.72386823450597
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 978,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 101.77957367809745
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+}, {
+  "id" : 979,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 101.91883728707626
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 17
+}, {
+  "id" : 980,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 102.39233355760427
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "pharmacy|health|establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 981,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 102.6151553319703
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|grocery_or_supermarket|food",
+  "placeCount" : 2
+}, {
+  "id" : 991,
+  "latLon" : {
+    "lat" : 14.37019941539351,
+    "lon" : 103.00509343711099
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 992,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 101.27821292756494
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 7
+}, {
+  "id" : 993,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 101.83520016373791
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 995,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 102.33648867629358
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 8
+}, {
+  "id" : 996,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 102.36433803810235
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 997,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 102.39218739991088
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "pharmacy|health|establishment|store|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 998,
+  "latLon" : {
+    "lat" : 14.343219768012718,
+    "lon" : 102.50358484714548
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 1006,
+  "latLon" : {
+    "lat" : 14.316240120631731,
+    "lon" : 102.33634952841567
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 1008,
+  "latLon" : {
+    "lat" : 14.316240120631731,
+    "lon" : 102.41988755483283
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 1009,
+  "latLon" : {
+    "lat" : 14.316240120631731,
+    "lon" : 102.4477335636384
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 11
+}, {
+  "id" : 1010,
+  "latLon" : {
+    "lat" : 14.316240120631731,
+    "lon" : 102.47557957244408
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 1026,
+  "latLon" : {
+    "lat" : 14.262280825869185,
+    "lon" : 102.94853722371693
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 4
+}, {
+  "id" : 1027,
+  "latLon" : {
+    "lat" : 14.262280825869185,
+    "lon" : 102.97637654745313
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 5
+}, {
+  "id" : 1035,
+  "latLon" : {
+    "lat" : 14.208321531105877,
+    "lon" : 102.64195516410632
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest",
+  "placeCount" : 2
+}, {
+  "id" : 1040,
+  "latLon" : {
+    "lat" : 14.181341883723938,
+    "lon" : 101.52860702685541
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|store|point_of_interest|food",
+  "placeCount" : 1
+}, {
+  "id" : 1041,
+  "latLon" : {
+    "lat" : 14.181341883723938,
+    "lon" : 102.66961031179699
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 1045,
+  "latLon" : {
+    "lat" : 14.15436223634181,
+    "lon" : 101.52856563882085
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "establishment|point_of_interest|hospital",
+  "placeCount" : 3
+}, {
+  "id" : 1049,
+  "latLon" : {
+    "lat" : 14.15436223634181,
+    "lon" : 102.94769353761751
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 1
+}, {
+  "id" : 1055,
+  "latLon" : {
+    "lat" : 14.127382588959494,
+    "lon" : 101.7232834687785
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 3
+}, {
+  "id" : 1057,
+  "latLon" : {
+    "lat" : 14.127382588959494,
+    "lon" : 102.8640155220113
+  },
+  "hasGasStation" : false,
+  "places" : [ ],
+  "placeTypes" : "school|establishment|point_of_interest",
+  "placeCount" : 4
+} ]
